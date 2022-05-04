@@ -1,1 +1,2 @@
 # odin-recipes
+This goal of this project was to create a simple recipe website using HTML. While completing the project, I have become familiar with basic Git workflows (adding, committing, puching changes) as well as working with the terminal (making directories, making and opening files). I have also learned how to apply simple HTML concepts such as creating different headings to show information hierachy, adding images, and working with unordered and ordered lists. 
